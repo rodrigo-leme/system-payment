@@ -48,9 +48,9 @@ Após escolher a forma de pagamento, o sistema solicitará o valor (aceitando di
 As figuras abaixo mostram a aplicação sendo utilizada para processar pagamentos com as duas formas disponíveis:
 
 ![Pagamento Cartão](prints/pagamento_cartao.png)  
-**Figura 1:** Exemplo de processamento de pagamento via Cartão. (** REPOS - ILUSTRATIVO **)
+**Figura 1:** Exemplo de processamento de pagamento via Cartão. 
 
 ![Pagamento Boleto](prints/pagamento_boleto.png)  
-**Figura 2:** Exemplo de processamento de pagamento via Boleto.
+**Figura 2:** Exemplo de processamento de pagamento via Boleto. (** REPOS - ILUSTRATIVO **)
 
 Cada teste comprova que o sistema solicita os dados corretos, processa o pagamento e exibe o resumo no formato especificado.
