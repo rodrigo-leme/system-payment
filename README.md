@@ -1,2 +1,0 @@
-# system-payment
-CP - C#
